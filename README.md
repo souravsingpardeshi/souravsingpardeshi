@@ -1,11 +1,76 @@
-### Hi there 👋
-Here you'll find a small sample of the projects I've hacked on over the years. You can also browse all the projects I've found interesting by looking at what I've starred. You can read about my projects and find more context for many of the repositories hosted here by searching my portofolio.
-<p align="center"><h2>I build with</h2>
-<img src=https://user-images.githubusercontent.com/63045639/97298191-16f20000-1879-11eb-81d0-83fae210a01b.png></img><img src=https://user-images.githubusercontent.com/63045639/97298232-27a27600-1879-11eb-91c4-99da3edbf176.png></img><img src=https://user-images.githubusercontent.com/63045639/97298268-3721bf00-1879-11eb-8376-1b98da4f72f3.png></img>
+### Hi there 🎉🎈🎉🎈
 
-  </p>
+Here you'll find a small sample of the projects I've hacked on over the years. You can also browse all the projects I've found interesting by looking at what I've [starred](https://github.com/MikeCodesDotNET?tab=stars). You can read about my projects and find more context for many of the repositories hosted here by searching my [personal blog](https://mikecodes.net). 
+
+<p align="center">
+  <a href="https://mikecodes.net">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
+  </a>  
+</p>
+
+---
+### 🌱 I’m currently learning
+Distributed penetration testing, Block-chain. 
+
+
+
+---
+### 📢 Find me elsewhere
+<p align="center">
+  <a href="https://twitter.com/mikecodesdotnet">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
+
+  <a href="https://www.linkedin.com/in/micjames/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.instagram.com/micjames6/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+ <a href="https://www.youtube.com/c/MichaelJames6/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+<hr>
+
+### 🚧 I build with...
+
+<p>
+  <a href="http://avaloniaui.net/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/6f9a9537c12cccd375436a59df526f5ecaa46c42/Resources/avalonia.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
+  </a>
+
+ <a href="https://azure.microsoft.com/en-gb/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://github.com/apple/swift">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://docs.microsoft.com/en-us/windows/uwp/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://github.com/dotnet/wpf">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://github.com/xamarin/Xamarin.Forms">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/XamarinForms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://github.com/xamarin/xamarin-macios">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/xamarinIOS.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
+  </a>  
+
+
+</p>
+
 <!--
-**souravsingpardeshi/souravsingpardeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MikeCodesDotNET/MikeCodesDotNET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
