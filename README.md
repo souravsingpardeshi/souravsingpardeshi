@@ -43,7 +43,7 @@ Distributed penetration testing, Block-chain.
   </a>
 
  <a href="https://azure.microsoft.com/en-gb/">
-    <img src="https://user-images.githubusercontent.com/63045639/97299606-34c06480-187b-11eb-9c1a-b87e19c8a656.png" alt="Android Studio" style="vertical-align:top; margin:4px">
+    <img src="https://user-images.githubusercontent.com/63045639/97299914-b87a5100-187b-11eb-9639-8cd9d73b35fc.png" alt="Android Studio" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/apple/swift">
