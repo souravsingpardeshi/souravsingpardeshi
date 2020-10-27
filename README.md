@@ -1,7 +1,7 @@
 ### Hi there 👋
 Here you'll find a small sample of the projects I've hacked on over the years. You can also browse all the projects I've found interesting by looking at what I've starred. You can read about my projects and find more context for many of the repositories hosted here by searching my portofolio.
 <p align="center">I build with
-  ![python@3x](https://user-images.githubusercontent.com/63045639/97298191-16f20000-1879-11eb-81d0-83fae210a01b.png)
+<img src=https://user-images.githubusercontent.com/63045639/97298191-16f20000-1879-11eb-81d0-83fae210a01b.png></img>
 ![js@3x](https://user-images.githubusercontent.com/63045639/97298232-27a27600-1879-11eb-91c4-99da3edbf176.png)
 ![java@3x](https://user-images.githubusercontent.com/63045639/97298268-3721bf00-1879-11eb-8376-1b98da4f72f3.png)
 
