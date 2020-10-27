@@ -1,12 +1,8 @@
 ### Hi there 🎉🎈🎉🎈
 
-Here you'll find a small sample of the projects I've hacked on over the years. You can also browse all the projects I've found interesting by looking at what I've [starred](https://github.com/MikeCodesDotNET?tab=stars). You can read about my projects and find more context for many of the repositories hosted here by searching my [personal blog](https://mikecodes.net). 
+Here you'll find a small sample of the projects I've hacked on over the years. You can also browse all the projects I've found interesting by looking at what I've [starred]. You can read about my projects and find more context for many of the repositories hosted here by searching my [portofolio site](https://souravsing.me). 
 
-<p align="center">
-  <a href="https://mikecodes.net">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
-  </a>  
-</p>
+
 
 ---
 ### 🌱 I’m currently learning
@@ -16,23 +12,21 @@ Penetration testing, Block-chain.
 
 ---
 ### 📢 Find me elsewhere
+
 <p align="center">
   <a href="https://twitter.com/mikecodesdotnet">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
-  <a href="https://www.linkedin.com/in/micjames/">
+  <a href="https://www.linkedin.com/in/souravsing-pardeshi-5954ab184/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://www.instagram.com/micjames6/">
+  <a href="https://instagram.com/souravsing.pardeshi?igshid=92q5lfky54hd">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
- <a href="https://www.youtube.com/c/MichaelJames6/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/youTube.svg" alt="Youtube" style="vertical-align:top; margin:4px">
-  </a>
-</p>
 
+ 
 <hr>
 
 ### 🚧 Tools I use...
