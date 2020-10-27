@@ -35,19 +35,19 @@ Distributed penetration testing, Block-chain.
 
 <hr>
 
-### 🚧 I build with...
+### 🚧 Tools I use...
 
 <p>
   <a href="http://avaloniaui.net/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/6f9a9537c12cccd375436a59df526f5ecaa46c42/Resources/avalonia.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
+    <img src="https://user-images.githubusercontent.com/63045639/97299676-56215080-187b-11eb-9ffe-0d47226a8990.png" alt="Pycharm" style="vertical-align:top; margin:4px">
   </a>
 
  <a href="https://azure.microsoft.com/en-gb/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+    <img src="https://user-images.githubusercontent.com/63045639/97299606-34c06480-187b-11eb-9c1a-b87e19c8a656.png" alt="Android Studio" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://github.com/apple/swift">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
+    <img src="https://user-images.githubusercontent.com/63045639/97299778-82d56800-187b-11eb-84e4-e6e927607843.png" alt="IntelliJ" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://docs.microsoft.com/en-us/windows/uwp/">
