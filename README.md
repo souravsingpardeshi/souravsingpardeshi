@@ -50,7 +50,7 @@ Penetration testing, Block-chain.
   <a href="https://github.com/dotnet/wpf">
     <img src="https://user-images.githubusercontent.com/63045639/97300355-59690c00-187c-11eb-9fc2-0898614bdaac.png" alt="Bash" style="vertical-align:top; margin:4px">
   </a>
-<a href="https://www.buymeacoffee.com/souravsing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 50px !important;" ></a>
+
 
 
 </p>
