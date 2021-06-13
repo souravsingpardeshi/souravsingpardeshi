@@ -1,6 +1,6 @@
 ### Hi there 🎉🎈🎉🎈
 
-Here you'll find a small sample of the projects I've hacked on over the years. You can also browse all the projects I've found interesting by looking at what I've [starred]. You can read about my projects and find more context for many of the repositories hosted here by searching my [portofolio site](https://souravsing.me). 
+Here you'll find a small sample of the projects I've hacked on over the years. You can also browse all the projects I've found interesting by looking at what I've [starred]. You can read about my projects and find more context for many of the repositories hosted here by searching my [portofolio site](https://souravsing.tech). 
 
 
 
