@@ -6,7 +6,7 @@ Here you'll find a small sample of the projects I've hacked on over the years. Y
 
 ---
 ### 🌱 I’m currently learning
-Penetration testing, Block-chain. 
+Web-developement and competative programming.
 
 
 ---
