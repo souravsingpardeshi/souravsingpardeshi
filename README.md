@@ -1,4 +1,4 @@
-![](https://github.com/NikhilSharma03/NikhilSharma03/blob/main/images/banner.png)
+![](https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/images/banner.png)
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Sourav!</h1>
 
@@ -18,8 +18,8 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ## 🧐 About Me
-- 🌱 &nbsp; I’m currently learning Docker and Kubernetes; 
-- 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories);
+- 🌱 &nbsp; I’m currently learning DevOps; 
+- 💻 &nbsp; Most of my projects are available on [Github](https://github.com/souravsingpardeshi?tab=repositories);
 - 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
 - ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
 
@@ -28,28 +28,27 @@
 ## 💻 Languages and Tools:
 
 <div align="center">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/go.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/JS.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/sass.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/go.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/sass.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
 <br />
 <br />
 
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/terminal.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/terminal.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/vs.png?raw=true" height="60" width="60">
 
 </div>
 <br />
 <br />
 
-## 📚 GitHub Stats:
 
 
 
