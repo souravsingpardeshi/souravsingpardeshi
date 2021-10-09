@@ -1,71 +1,59 @@
-### Hi there 🎉🎈🎉🎈
+![](https://github.com/NikhilSharma03/NikhilSharma03/blob/main/images/banner.png)
 
-Here you'll find a small sample of the projects I've hacked on over the years. You can also browse all the projects I've found interesting by looking at what I've [starred]. You can read about my projects and find more context for many of the repositories hosted here by searching my [portofolio site](https://souravsing.tech). 
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Sourav!</h1>
 
+<h4 align="center">I am a undergraduate student 📚 with a passion for Development ❤️. I love exploring new technologies 💻 and use them to build cool and innovative  projects 🛠️.</h4>
+<br/>
 
+<div align="center">
 
----
-### 🌱 I’m currently learning
-Web-developement and competative programming.
-
-
----
-### 📢 Find me elsewhere
-
-<p align="center">
-  <a href="https://twitter.com/SouravsingP">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>  
-
-  <a href="https://www.linkedin.com/in/souravsing-pardeshi-5954ab184/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://instagram.com/souravsing.pardeshi?igshid=92q5lfky54hd">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
-
- 
-<hr>
-
-### 🚧 Tools I use...
-
-<p>
-  <a href="http://avaloniaui.net/">
-    <img src="https://user-images.githubusercontent.com/63045639/97299676-56215080-187b-11eb-9ffe-0d47226a8990.png" alt="Pycharm" style="vertical-align:top; margin:4px">
-  </a>
-
- <a href="https://azure.microsoft.com/en-gb/">
-    <img src="https://user-images.githubusercontent.com/63045639/97299914-b87a5100-187b-11eb-9639-8cd9d73b35fc.png" alt="Android Studio" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/apple/swift">
-    <img src="https://user-images.githubusercontent.com/63045639/97299778-82d56800-187b-11eb-84e4-e6e927607843.png" alt="IntelliJ" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://docs.microsoft.com/en-us/windows/uwp/">
-    <img src="https://user-images.githubusercontent.com/63045639/97300081-f6777500-187b-11eb-863d-e294f33f392d.png" alt="VM-Ware" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/dotnet/wpf">
-    <img src="https://user-images.githubusercontent.com/63045639/97300355-59690c00-187c-11eb-9fc2-0898614bdaac.png" alt="Bash" style="vertical-align:top; margin:4px">
-  </a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nikhil-sharma-7538961b2/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://nikhilsharma-portfolio.web.app/)
+<img alt="followers" src="https://img.shields.io/github/followers/NikhilSharma03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+  
+</div> 
+<br/>
 
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-</p>
+## 🧐 About Me
+- 🌱 &nbsp; I’m currently learning Docker and Kubernetes; 
+- 💻 &nbsp; Most of my projects are available on [Github](https://github.com/NikhilSharma03?tab=repositories);
+- 💬 &nbsp; Want to work on project, feel free to contact me, I am happy to help;
+- ⚡ &nbsp; Fun fact: It took less code to send a man to the moon than to run a smartphone;
 
-<!--
-**souravsingpardeshi/souravsingpardeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 💻 Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/go.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/sass.png?raw=true" height="60" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+
+<br />
+<br />
+
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/terminal.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/NikhilSharma03/NikhilSharma03/blob/main/logo/vs.png?raw=true" height="60" width="60">
+
+</div>
+<br />
+<br />
+
+## 📚 GitHub Stats:
+
+
+
+<br />
+
+
+
