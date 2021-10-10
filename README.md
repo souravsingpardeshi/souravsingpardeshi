@@ -28,9 +28,9 @@
 ## 💻 Languages and Tools:
 
 <div align="center">
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="60" width="60">
 <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/JS.png?raw=true" height="60" width="60">
+  <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/react.png?raw=true" height="60" width="60">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="60" width="60">
 <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/sass.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
@@ -38,7 +38,7 @@
 <br />
 <br />
 
-<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/JS.png?raw=true" height="60" width="60">
 <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/html.png?raw=true" height="60" width="60">
 <img src="https://github.com/souravsingpardeshi/souravsingpardeshi/blob/main/logo/terminal.png?raw=true" height="60" width="60">
